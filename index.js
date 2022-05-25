@@ -30,6 +30,6 @@ y = 10;
 z = 5;
 x = y * z;
 
-window.alert(x);
+window.alert(z);
 
 
